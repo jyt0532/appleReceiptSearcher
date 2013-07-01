@@ -1,0 +1,3 @@
+[submodule "php_restler"]
+	path = php_restler
+	url = git@github.com:mz026/php_restler.git
